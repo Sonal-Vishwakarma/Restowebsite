@@ -14,8 +14,8 @@ const App = () => {
   return (
     
     <main className="overflow-y-hidden text-neutral-200 antialiased">
-      <HeroSection/>
       <Navbar/>
+      <HeroSection/>
       <Dishes/>
       <About/>
       <Mission/>
